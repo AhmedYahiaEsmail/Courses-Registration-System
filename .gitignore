@@ -1,0 +1,52 @@
+# ---- Build artifacts ----
+build/
+bin/
+obj/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# ---- CMake ----
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ---- Visual Studio ----
+*.sln
+*.vcxproj.user
+*.vcxproj.filters
+*.opendb
+*.tlog
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+
+# VS Generated folders
+/.vs/
+
+# ---- Compiler outputs ----
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+
+# ---- Logs & temp ----
+*.log
+*.tmp
+*.temp
+
+# ---- OS files ----
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
